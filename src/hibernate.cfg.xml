@@ -27,3 +27,4 @@
         <mapping resource="com/mercury/mappings/Player.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>
+
